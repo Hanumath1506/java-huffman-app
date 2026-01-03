@@ -30,6 +30,7 @@ Huffman Encoding is widely used in file compression formats and showcases core c
 
 ## Project Structure
 src/
+
 └── HuffmanApp.java
 
 ## How to Run
